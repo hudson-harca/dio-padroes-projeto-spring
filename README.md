@@ -5,4 +5,4 @@ Agora é a sua hora de brilhar! Crie uma solução que explore o conceito de Pad
 
 Dica: Além dos projetos/repositórios que criamos para este desafio, caso queira explorar novos padrões de projeto digite no Google: “java design patterns github” ou “java design patterns examples”. Com isso, você conhecerá novos padrões e implementações de referência que podem ajudá-lo a dominar esse tema!
 
-Feita a reprodução com pequenos ajustes nas inportações.
+Feita a reprodução com pequenos ajustes nas importações.
